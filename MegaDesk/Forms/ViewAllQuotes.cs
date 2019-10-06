@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MegaDesk
+namespace MegaDesk.Forms
 {
-    public partial class Form1 : Form
+    public partial class ViewAllQuotes : Form
     {
-        public Form1()
+        public ViewAllQuotes()
         {
             InitializeComponent();
         }
